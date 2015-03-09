@@ -1,0 +1,24 @@
+#EXTINF: 0, LATINO: AXN
+RTMP: // $ OPT: RTMP-raw = RTMP:? //46.28.49.156/live playpath = axncomp id = 72011 swfUrl = http: //www.ucaster.eu/static/scripts/eplayer.swf vivo = 1 PageURL = http: //www.ucaster.eu/ conn = S: OK
+#EXTINF: 0, LATINO: TNT
+RTMP: // $ OPT: RTMP-raw = RTMP: //206.190.153.70/live playpath = tnt2021 id = 15841 swfUrl = http: //www.janjua.tv/resources/scripts/eplayer.swf vivo = 1 PageURL = http: //www.janjua.tv/ conn = S: OK
+#EXTINF: 0, LATINO: FOX
+RTMP: // $ OPT: RTMP-raw = RTMP:? //212.7.209.16/live playpath = camilo7 id = 71914 swfUrl = http: //www.ucaster.eu/static/scripts/eplayer.swf vivo = 1 PageURL = http: //www.ucaster.eu/ conn = S: OK
+#EXTINF: 0, LATINO: HBO
+RTMP: // $ OPT: RTMP-raw = RTMP: //206.190.150.8/live playpath = noemi145 id = 19348 swfUrl = http: //www.janjua.tv/resources/scripts/eplayer.swf vivo = 1 PageURL = http: //www.janjua.tv/ conn = S: OK
+#EXTINF: 0, LATINO: HBO PLUS
+RTMP: // $ OPT: RTMP-raw = RTMP: //208.101.9.155/live playpath = plushbocp id = 202286 swfUrl = http: //www.mips.tv/content/scripts/eplayer.swf vivir = 1 PageURL = http: //www.mips.tv/ conn = S: OK
+#EXTINF: 0, LATINO: UNIVERSAL
+RTMP: // $ OPT: RTMP-raw = RTMP: //212.7.209.18/live playpath = universalcomp id = 72019 swfUrl = http: //www.ucaster.eu/static/scripts/eplayer.swf vivo = 1 PageURL = http: //www.ucaster.eu/ conn = S: OK
+#EXTINF: 0, LATINO: WARNER
+RTMP: // $ OPT: RTMP-raw = RTMP: //206.190.150.50/live playpath = warner2021 id = 15846 swfUrl = http: //www.janjua.tv/resources/scripts/eplayer.swf vivo = 1 PageURL = http: //www.janjua.tv/ conn = S: OK
+#EXTINF: 0, LATINO: SONY
+RTMP: // $ OPT: RTMP-raw = RTMP: //212.7.209.17/live playpath = sonycomp id = 72017 swfUrl = http: //www.ucaster.eu/static/scripts/eplayer.swf vivo = 1 PageURL = http: //www.ucaster.eu/ conn = S: OK
+#EXTINF: 0, LATINO: Cinemax
+RTMP: // $ OPT: RTMP-raw = RTMP: //206.190.153.70/live playpath = cinemax2021 id = 15842 swfUrl = http: //www.janjua.tv/resources/scripts/eplayer.swf vivo = 1 PageURL = http: //www.janjua.tv/ conn = S: OK
+#EXTINF: 0, LATINO: COMEDY CENTRAL
+RTMP: // $ OPT: RTMP-raw = RTMP: //46.28.50.116/live playpath = comedycomp id = 72013 swfUrl = http: //www.ucaster.eu/static/scripts/eplayer.swf vivo = 1 PageURL = http: //www.ucaster.eu/ conn = S: OK
+#EXTINF: 0, LATINO: EDGE
+RTMP: // $ OPT: RTMP-raw = RTMP: //173.192.209.69/live playpath = youtvapp2 id = 69918 swfUrl = http: //www.ucaster.eu/static/scripts/eplayer.swf vivo = 1 PageURL = http: //www.ucaster.eu/ conn = S: OK
+#EXTINF: 0, LATINO: NOVELAS TL
+RTMP: // $ OPT: RTMP-raw = RTMP: //206.190.139.28/live playpath = tlnovelas2021 id = 15840 swfUrl = http: //www.janjua.tv/resources/scripts/eplayer.swf vivo = 1 PageURL = http: //www.janjua.tv/ conn = S: OK
